@@ -1,3 +1,3 @@
-Print ("I love Cakes and Pies!")
+print("I love Cakes and Pies!")
 
-Print ("I love you hehe jk")
+print("I love you hehe jk")
